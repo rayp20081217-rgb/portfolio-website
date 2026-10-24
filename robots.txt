@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raymond-peters.vercel.app/sitemap.xml
